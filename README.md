@@ -1,2 +1,2 @@
 # minePyGame
-Minesweeper game made in python with custom images
+Minesweeper game re-made in python with custom images
